@@ -7,6 +7,7 @@ class Processor {
 
   // TODO: Declare any necessary private members
  private:
+  float total_cpu_utilization {0.0};
 };
 
 #endif
